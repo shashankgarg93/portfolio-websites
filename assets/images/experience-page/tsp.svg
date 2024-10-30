@@ -1,0 +1,175 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 214 65" style="enable-background:new 0 0 214 65;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#364140;}
+</style>
+<rect id="_x31_" class="st0" width="64" height="9" transform="translate(65,1)" opacity="0">
+	<animateTransform 
+			attributeName="transform" 
+			begin="0" 
+			dur="0.3s"
+			type="scale"
+			fill="freeze" values="0,1;-1,1" 
+			additive="sum"
+			keyTimes="0.0;1"
+			id="first" />
+	<animate 
+			attributeType="css" 
+			attributeName="opacity" 
+			values="0;1" 
+			keyTimes="0;1" 
+			fill="freeze"
+			begin="0"
+			additive="sum"
+			dur="0.3s" />
+</rect>
+<rect id="_x32_" class="st0" width="9" height="39.2" transform="translate(1,9.8)" opacity="0">
+	<animateTransform 
+			attributeName="transform" 
+			begin="first.end" 
+			dur="0.3s"
+			type="scale"
+			fill="freeze" values="1,0;1,1" 
+			additive="sum"
+			keyTimes="0.0;1"
+			id="second" />
+	<animate 
+			attributeType="css" 
+			attributeName="opacity" 
+			values="0;1" 
+			keyTimes="0;1" 
+			fill="freeze"
+			begin="first.end"
+			additive="sum"
+			dur="0.3s" />
+</rect>
+<rect id="_x33_"  class="st0" width="25" height="9" transform="translate(1,55)" opacity="0">
+	<animateTransform 
+			attributeName="transform" 
+			begin="second.end" 
+			dur="0.3s"
+			type="scale"
+			fill="freeze" values="0,1;1,1" 
+			additive="sum"
+			keyTimes="0.0;1"
+			id="third" />
+	<animate 
+			attributeType="css" 
+			attributeName="opacity" 
+			values="0;1" 
+			keyTimes="0;1" 
+			fill="freeze"
+			begin="second.end"
+			additive="sum"
+			dur="0.3s" />
+</rect>
+<rect id="_x34_" class="st0" width="9" height="39.1" transform="translate(17,55.1)" opacity="0">
+	<animateTransform 
+			attributeName="transform" 
+			begin="third.end" 
+			dur="0.3s"
+			type="scale"
+			fill="freeze" values="1,0;1,-1" 
+			additive="sum"
+			keyTimes="0.0;1"
+			id="fourth" />
+	<animate 
+			attributeType="css" 
+			attributeName="opacity" 
+			values="0;1" 
+			keyTimes="0;1" 
+			fill="freeze"
+			begin="third.end"
+			additive="sum"
+			dur="0.3s" />
+</rect>
+<rect id="_x35_" class="st0" width="32" height="9" transform="translate(65,16)" opacity="0">
+	<animateTransform 
+			attributeName="transform" 
+			begin="fourth.end" 
+			dur="0.3s"
+			type="scale"
+			fill="freeze" values="0,1;-1,1" 
+			additive="sum"
+			keyTimes="0.0;1"
+			id="fifth" />
+	<animate 
+			attributeType="css" 
+			attributeName="opacity" 
+			values="0;1" 
+			keyTimes="0;1" 
+			fill="freeze"
+			begin="fourth.end"
+			additive="sum"
+			dur="0.3s" />
+</rect>
+<rect id="_x36_" class="st0" width="9" height="39.2" transform="translate(33,24.8)" opacity="0">
+	<animateTransform 
+			attributeName="transform" 
+			begin="fifth.end" 
+			dur="0.3s"
+			type="scale"
+			fill="freeze" values="1,0;1,1" 
+			additive="sum"
+			keyTimes="0.0;1"
+			id="sixth" />
+	<animate 
+			attributeType="css" 
+			attributeName="opacity" 
+			values="0;1" 
+			keyTimes="0;1" 
+			fill="freeze"
+			begin="fifth.end"
+			additive="sum"
+			dur="0.3s" />
+</rect>
+<g>
+	<g>
+		<path class="st0" d="M92.7,4v11.8h-2.4V4h-4.2V1.9h10.8V4H92.7z"/>
+		<path class="st0" d="M99.5,15.8v-14h2.4v6.1h6.9V1.9h2.4v14h-2.4v-5.7h-6.9v5.7H99.5z"/>
+		<path class="st0" d="M124.8,1.9v2.2h-7.5v3.7h6.7v2.1h-6.7v3.7h7.7v2.2H115v-14H124.8z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M90.8,27.6c-0.7,0-1.3,0.1-1.7,0.4c-0.4,0.3-0.7,0.7-0.7,1.3c0,0.6,0.2,1,0.7,1.3c0.4,0.3,1.4,0.6,2.8,1
+			c1.4,0.3,2.5,0.8,3.2,1.5c0.7,0.6,1.1,1.6,1.1,2.8s-0.5,2.2-1.4,3c-0.9,0.8-2.1,1.1-3.6,1.1c-2.2,0-4.1-0.8-5.8-2.3l1.5-1.8
+			c1.4,1.2,2.9,1.8,4.4,1.8c0.8,0,1.4-0.2,1.8-0.5c0.4-0.3,0.7-0.8,0.7-1.3s-0.2-1-0.6-1.3c-0.4-0.3-1.1-0.6-2.2-0.8
+			s-1.8-0.5-2.3-0.7c-0.5-0.2-1-0.5-1.4-0.8c-0.8-0.6-1.2-1.6-1.2-2.9s0.5-2.3,1.4-3s2.1-1,3.5-1c0.9,0,1.8,0.1,2.7,0.4
+			s1.6,0.7,2.3,1.2l-1.3,1.8c-0.4-0.4-1-0.7-1.7-0.9C92.2,27.8,91.5,27.6,90.8,27.6z"/>
+		<path class="st0" d="M112.4,37.9c-1.4,1.4-3.2,2.1-5.2,2.1c-2.1,0-3.8-0.7-5.2-2.1c-1.4-1.4-2.1-3.1-2.1-5.2
+			c0-2.1,0.7-3.8,2.1-5.2c1.4-1.4,3.2-2.1,5.2-2.1c2.1,0,3.8,0.7,5.2,2.1s2.1,3.1,2.1,5.2C114.5,34.8,113.8,36.5,112.4,37.9z
+			 M110.7,29.1c-1-1-2.1-1.5-3.5-1.5c-1.4,0-2.6,0.5-3.5,1.5c-1,1-1.4,2.2-1.4,3.6c0,1.4,0.5,2.6,1.4,3.6c1,1,2.1,1.5,3.5,1.5
+			c1.4,0,2.6-0.5,3.5-1.5s1.4-2.2,1.4-3.6C112.1,31.3,111.6,30.1,110.7,29.1z"/>
+		<path class="st0" d="M121.4,28v3.8h6.2V34h-6.2v5.8H119v-14h9.3l0,2.2H121.4z"/>
+		<path class="st0" d="M137.9,28v11.8h-2.4V28h-4.2v-2.2h10.8V28H137.9z"/>
+		<path class="st0" d="M150.5,35.9l3.1-10.1h2.1l3.1,10.1l3.5-10.1h2.5l-4.9,14h-2.3l-2.9-9.6h-0.2l-2.9,9.6h-2.3l-4.9-14h2.5
+			L150.5,35.9z"/>
+		<path class="st0" d="M169.9,36.6l-1.4,3.2H166l6.2-14h2.5l6.2,14h-2.5l-1.4-3.2H169.9z M176,34.4l-2.5-5.8l-2.5,5.8H176z"/>
+		<path class="st0" d="M195.5,30.3c0,2.3-1,3.8-3,4.4l3.7,5.1h-3l-3.3-4.7h-3.1v4.7h-2.4v-14h5.2c2.1,0,3.7,0.4,4.6,1.1
+			C195,27.6,195.5,28.8,195.5,30.3z M192.3,32.3c0.5-0.4,0.7-1.1,0.7-2c0-0.9-0.2-1.5-0.7-1.9c-0.5-0.3-1.4-0.5-2.6-0.5h-3v5h2.9
+			C190.9,32.9,191.8,32.7,192.3,32.3z"/>
+		<path class="st0" d="M210.2,25.8V28h-7.5v3.7h6.7v2.1h-6.7v3.7h7.7v2.2h-10.1v-14H210.2z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M96.5,50.2c1,0.8,1.5,2.1,1.5,3.8s-0.5,2.9-1.5,3.7c-1,0.8-2.5,1.2-4.6,1.2h-2.5V63H87V49h4.8
+			C93.9,49,95.5,49.4,96.5,50.2z M94.8,56c0.5-0.5,0.7-1.2,0.7-2.2s-0.3-1.6-0.9-2s-1.5-0.6-2.8-0.6h-2.4v5.6h2.7
+			C93.4,56.8,94.3,56.5,94.8,56z"/>
+		<path class="st0" d="M113.4,53.6c0,2.3-1,3.8-3,4.4L114,63h-3l-3.3-4.7h-3.1V63h-2.4V49h5.2c2.1,0,3.7,0.4,4.6,1.1
+			S113.4,52,113.4,53.6z M110.2,55.5c0.5-0.4,0.7-1.1,0.7-2s-0.2-1.5-0.7-1.9c-0.5-0.3-1.4-0.5-2.6-0.5h-3v5h2.9
+			C108.8,56.2,109.7,56,110.2,55.5z"/>
+		<path class="st0" d="M120.2,59.8l-1.4,3.2h-2.5l6.2-14h2.5l6.2,14h-2.5l-1.4-3.2H120.2z M126.3,57.6l-2.5-5.8l-2.5,5.8H126.3z"/>
+		<path class="st0" d="M141,60.9c0.8,0,1.5-0.1,2.1-0.4s1.2-0.7,1.8-1.3l1.5,1.6c-1.5,1.6-3.3,2.5-5.4,2.5s-3.9-0.7-5.3-2
+			c-1.4-1.4-2.1-3.1-2.1-5.2s0.7-3.8,2.1-5.2s3.2-2.1,5.4-2.1s4,0.8,5.4,2.4l-1.5,1.6c-0.7-0.6-1.3-1.1-1.9-1.3S142,51,141.2,51
+			c-1.4,0-2.6,0.5-3.6,1.4s-1.4,2.1-1.4,3.5s0.5,2.6,1.4,3.6S139.7,60.9,141,60.9z"/>
+		<path class="st0" d="M156.1,51.2V63h-2.4V51.2h-4.2V49h10.8v2.2H156.1z"/>
+		<path class="st0" d="M164.4,49h2.4v14h-2.4V49z"/>
+		<path class="st0" d="M178.5,60.9c0.8,0,1.5-0.1,2.1-0.4s1.2-0.7,1.8-1.3l1.5,1.6c-1.5,1.6-3.3,2.5-5.4,2.5s-3.9-0.7-5.3-2
+			c-1.4-1.4-2.1-3.1-2.1-5.2s0.7-3.8,2.1-5.2s3.2-2.1,5.4-2.1s4,0.8,5.4,2.4l-1.5,1.6c-0.7-0.6-1.3-1.1-1.9-1.3s-1.3-0.4-2.1-0.4
+			c-1.4,0-2.6,0.5-3.6,1.4s-1.4,2.1-1.4,3.5s0.5,2.6,1.4,3.6S177.2,60.9,178.5,60.9z"/>
+		<path class="st0" d="M198.2,49v2.2h-7.5v3.7h6.7V57h-6.7v3.7h7.7V63h-10.1V49H198.2z"/>
+	</g>
+</g>
+</svg>
