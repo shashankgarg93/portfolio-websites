@@ -5,26 +5,41 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/jpmorganchase.svg",
+    place: "JP Morgan Chase, Mumbai",
+    time: "(Aug, 2023 - present)",
+    desp: "<li>S.E in Trade & Risk Team with best in class solutions for trade and risk management.</li> <li>Developed, maintained and supported multiple core solutions for regulatory reporting of APAC trades</li> <li>Lead the migration of 2000+ feeds from on-prem setup to AWS infrastructure</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Software Development Engineer",
+    cardImage: "assets/images/experience-page/tsp.svg",
+    place: "The Software Practice, Singapore",
+    time: "(Oct, 2022 - Aug, 2023)",
+    desp: "<li>Worked on creating Singapore Land Authority system and addressing bugs in the existing system.</li><li>Developed using Razorpages(.NET)</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "Backend Development Intern",
+    cardImage: "assets/images/experience-page/betterhalf.jpeg",
+    place: "Betterhalf.ai, Bengaluru",
+    time: "(Aug, 2022 - Oct, 2022)",
+    desp: "<li><Betterhalf.ai is a matrimony platform with AI Matchmaking</li><li>Designing, documenting and implementing efficient API endpoints with Django Rest</li>",
   },
+  {
+    title: "Full-stack Software Engineering Intern",
+    cardImage: "assets/images/experience-page/borneo.jpeg",
+    place: "Borneo, Bengaluru",
+    time: "(Jun, 2022 - Aug, 2022)",
+    desp: "<li>Borneo is a real-time data security and privacy observability platform</li><li>Helped to fix vulnerabilities on AWS ECR images and leveraged AWS Cost explorer to manage the cost</li>",
+  },
+  {
+    title: "Software Engineer Intern",
+    cardImage: "assets/images/experience-page/jpmorganchase.svg",
+    place: "JP Morgan Chase, Bengaluru",
+    time: "(Jan, 2022 - Jun, 2022)",
+    desp: "<li>Part of team managing a data lake platform</li><li></li>Deployed the project to cloud using Kubernetes.</li><li>Set up a CI/CD pipeline, load-balancer, distributed cache, logging(Splunk) system for the same.</li>",
+  },
+
 ];
 
 const showCards2 = () => {
